@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-#Aracı Geliştirenler:
-#Ozancan Ertem
-#Anıl Baran Yelken
+
 import hashlib
 hashOrChipher=raw_input("Hash veya Sifrelenmis metni giriniz: ")
 def hashDegil():
